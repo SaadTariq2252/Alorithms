@@ -1,0 +1,21 @@
+Name,Total elements,Total Swaps, Total Comparisions
+SimpleBubbleSort,100,2667,9900
+BubbleSort,100,2667,4884
+InsertionSort,100,0,2668
+selectionSort,100,100,4950
+SimpleBubbleSort,250,15386,62250
+BubbleSort,250,15386,30530
+InsertionSort,250,0,15387
+selectionSort,250,250,31125
+SimpleBubbleSort,500,62656,249500
+BubbleSort,500,62656,124519
+InsertionSort,500,0,62657
+selectionSort,500,500,124750
+SimpleBubbleSort,1000,247954,999000
+BubbleSort,1000,247954,499035
+InsertionSort,1000,0,247955
+selectionSort,1000,1000,499500
+SimpleBubbleSort,10000,25416579,99990000
+BubbleSort,10000,25416579,49990344
+InsertionSort,10000,0,25416580
+selectionSort,10000,10000,49995000
